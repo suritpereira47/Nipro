@@ -1,0 +1,675 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo h1 {
+    font-size: 20px;
+}
+.c_dd_menu[data-bs-popper] {
+    top: 47px;
+    left: -14px;
+}
+.c_dd_menu {
+    min-width: 300px;
+}
+.b_s_icon {
+    width: 60px;
+}
+/*header end*/
+/*slider start*/
+.btn-banner {
+    padding: 9px 12px;
+    margin-top: 20px !important;
+}
+.s-1 {
+    margin-top: 60px;
+    margin-bottom: 60px
+}
+.s-1 h1 {
+    font-size: 25px;
+}
+.s-1 p {
+    margin-top: 13px;
+    margin-right: 0px;
+}
+.btn-custom {
+    margin-top: 7px !important;
+    width: 159px;
+    height: 40px;
+}
+.btn-custom span i {
+    padding: 0 10px;
+}
+/*slider end*/	
+/*service start*/
+.Service {
+    margin-bottom: 50px;
+}
+.c_h1 {
+    font-size: 25px;
+}
+.s-p {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.top_arrows {
+    height: 30px;
+}
+.s-service h2{
+    margin-top: 15px;
+}
+.s-service p {
+    margin-top: 10px;
+    margin-bottom: 20px !important;
+}
+/*service end*/
+    /*about start*/
+.a-img {
+    text-align: center;
+}
+.a-text h1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.a-text p {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.aaaaa {
+    text-align: center;
+
+}
+.about {
+    margin-bottom: 50px;
+}
+    /*about end*/
+    /*our work start*/
+.our-work {
+    padding-bottom: 40px;
+}
+    /*our work end*/
+    /* choose us start */
+.choose-item {
+    margin-top: 15px;
+    padding: 20px 0;
+    text-align: center;
+}
+.c-p {
+    margin-top: 15px;
+}
+p {
+    margin-bottom: 5px;
+}
+.choose {
+    padding-bottom: 40px;
+}
+.c-icon i {
+    margin-top: -13px;
+    font-size: 50px;
+}
+    /* choose us  end */
+    /*profile start*/
+.p-item1 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.p-item2 {
+    margin-top: 0;
+}
+.p-item3{
+    margin-top: 0;
+}
+.p-text {
+    padding: 7px;
+}
+.p-text h2 {
+    font-size: 16px;
+}
+.box8 .icon {
+    top: 43%;
+}
+.box8 .icon li a {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+/*profile end*/ 
+/*Pricing start*/
+.Pricing {
+    margin-bottom: 50px;
+}
+.p-box {
+    margin-top: 50px;
+    padding-bottom: 35px;
+}
+.p-box h3 {
+    margin: 10px 0;
+}
+.p-list ul li {
+    margin: 10px 0;
+}
+
+/*Pricing end*/
+/*buy*/
+.buy-text {
+    text-align: center;
+    margin: 5px 0;
+}
+.buy-text ul li a {
+    font-size: 16px;
+}
+.buy-btn1 {
+    margin: 5px 0;
+    margin-right: 95px;
+}
+.buy-btn {
+    padding: 6px 4px;
+    font-size: 16px;
+}
+/*buy*/
+/* testimonial start  */
+.testimonial{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.testimonial-wrap-border {
+    padding: 19px 19px;
+}
+.test-img img {
+    margin-top: 0px;
+}
+.test-content {
+    padding-left: 0px;
+}
+.test-content h3 {
+    margin-top: 10px;
+}
+.test-content span {
+    margin: 5px 0 !important;
+}
+.test-content h5 {
+    margin-bottom: 0;
+}
+.test-content p {
+    margin-top: 5px;
+}
+.t-ss-btn {
+    margin: 15px 0;
+    font-size: 16px;
+    transform: none;
+}
+.t-ss-btn-d {
+    width: 2px;
+    height: 21px;
+    background-color: #333333;
+    position: relative;
+    transform: rotate(180deg);
+}
+/* testimonial end  */
+.contact{
+    padding-bottom: 50px;
+}
+/* contact start */
+.contact-form-w h1 {
+    font-size: 22px;
+    margin-top: -11px;
+    background-color: #fff;
+    padding: 0px 5px;
+}
+.Send-btn {
+    padding: 7px 11px;
+}
+.Send {
+    margin-top: 20px;
+}
+.contact-form-w {
+    padding: 60px 20px 20px;
+    border: 1px solid #cccccc;
+    position: relative;
+}
+.contact-form input{
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+/* contact end */
+/*footer start*/
+.f-text {
+    margin-top: 15px;
+}
+.f-icon {
+    margin-top: 25px;
+}
+
+.f-icon ul li {
+    width: 39px;
+    height: 42px;
+}
+.f-icon ul li a i {
+    font-size: 26px;
+    line-height: 40px;
+}
+.footer-top {
+    padding-bottom: 25px;
+    border-bottom: 1px solid white;
+}
+.footer-text{
+    text-align: center;
+    margin: 5px 0;
+}
+.footer-m{
+    text-align: center;
+    margin: 5px 0;
+}
+.footer-m ul li {
+    margin-left: 0px;
+}
+/*footer end*/
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.c_dd_menu[data-bs-popper] {
+    left: 45px !important;
+}
+.menu {
+    text-align: center;
+}
+.menu ul li a{
+    margin-right: 0px !important;
+}
+.menu ul li:last-child a{
+    margin-right: 0px !important;
+}
+.nav_search{
+    text-align: center;
+}
+/*header end*/
+/*slider start*/
+.btn-banner {
+    margin-top: 20px !important;
+}
+.s-1 {
+    margin-top: 100px;
+    margin-bottom: 100px
+}
+.s-1 h1 {
+    font-size: 40px;
+}
+.s-1 p {
+    margin-top: 25px;
+    margin-right: 0px;
+}
+.btn-custom {
+    text-align: center;
+    margin-top: 25px !important;
+    width: 159px;
+    height: 41px;
+    margin: 0 175px;
+}
+.btn-custom span i {
+    padding: 0 10px;
+}
+/*slider end*/	
+/*service start*/
+.Service {
+    margin-bottom: 80px;
+}
+.s-p {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.top_arrows {
+    height: 30px;
+}
+.s-service h2{
+    margin-top: 30px;
+}
+.s-service p {
+    margin-top: 10px;
+    margin-bottom: 20px !important;
+}
+/*service end*/
+    /*about start*/
+.a-img {
+    text-align: center;
+}
+.a-text h1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.a-text p {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.aaaaa {
+    text-align: center;
+}
+.about {
+    margin-bottom: 80px;
+}
+    /*about end*/
+    /* choose us start */
+.choose-item {
+    margin-top: 15px;
+    padding: 20px 0;
+    text-align: center;
+}
+.c-icon i {
+    margin-top: -13px;
+    font-size: 50px;
+}
+.c-p {
+    margin-top: 15px;
+}
+p {
+    margin-bottom: 5px;
+}
+    /* choose us  end */ 
+    /*profile start*/
+.p-item1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.p-item2{
+    margin-top: 0;
+}
+.p-text {
+    padding: 7px;
+}
+.p-text h2 {
+    font-size: 16px;
+}
+.box8 .icon {
+    top: 43%;
+}
+.box8 .icon li a {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+/*profile end*/
+/*Pricing start*/
+.Pricing {
+    margin-bottom: 50px;
+}
+.p-box {
+    margin-top: 50px;
+}
+.p-box h3 {
+    margin: 10px 0;
+}
+.p-list ul li {
+    margin: 10px 0;
+}
+/*Pricing end*/
+/*buy*/
+.buy-text {
+    margin: 35px 0;
+}
+.buy-text ul li a {
+    font-size: 16px;
+}
+.buy-btn1 {
+    margin: 30px 0;
+}
+.buy-btn {
+    padding: 6px 4px;
+    font-size: 16px;
+}
+/*buy*/
+/* testimonial start  */
+.testimonial{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.test-img img {
+    margin-top: 100px;
+}
+.test-content {
+    padding-left: 0px;
+}
+.test-content span {
+    margin: 5px 0 !important;
+}
+.test-content h5 {
+    margin-bottom: 0;
+}
+.test-content p {
+    margin-top: 5px;
+}
+.t-ss-btn {
+    margin: 30px 0;
+    font-size: 16px;
+    transform: none;
+}
+.t-ss-btn-d {
+    width: 2px;
+    height: 21px;
+    background-color: #333333;
+    position: relative;
+    transform: rotate(180deg);
+}
+/* testimonial end  */
+/* contact start */
+.contact{
+    padding-bottom: 50px;
+}
+.Send-btn {
+    padding: 7px 11px;
+}
+.contact-form-w {
+    padding: 90px 40px 40px;
+    border: 1px solid #cccccc;
+    position: relative;
+}
+/* contact end */
+/*footer start*/
+.footer-top {
+    padding-bottom: 50px;
+    border-bottom: 1px solid white;
+}
+.footer-text{
+    margin: 25px 0;
+}
+.footer-m{
+    margin: 25px 0;
+}
+.footer-m ul li {
+    margin-left: 0px;
+}
+/*footer end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.c_dd_menu[data-bs-popper] {
+    left: 130px;
+}
+/*header end*/	
+/*slider start*/
+.btn-banner {
+    margin-top:20px !important;
+}
+
+.s-1 {
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.s-1 h1 {
+    font-size: 50px;
+}
+.s-1 p {
+    margin-top: 25px;
+    margin-right: 68px;
+}
+.btn-custom {
+    margin-top: 25px;
+}
+/*slider end*/
+/*service start*/
+.Service{
+    margin-bottom: 80px;
+}
+.s-p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*service end*/
+    /*about start*/
+.a-img {
+    text-align: center;
+}
+.a-text h1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.a-text p {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.aaaaa {
+    text-align: center;
+}
+.about {
+    margin-bottom: 100px;
+}
+    /*about end*/
+.c-icon i {
+    margin-top: -12px;
+    font-size: 50px;
+}
+/* choose us start */
+.c-h2 h2 {
+    font-size: 16px;
+}
+.choose {
+    padding-bottom: 60px;
+}
+.choose-item {
+    margin-top: 15px;
+}
+p {
+    margin-bottom: 0px;
+}
+/* choose us  end */ 
+/*profile start*/
+.p-item1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.p-item2{
+    margin-top: 0;
+}
+.box8 .icon {
+    top: 42%;
+}
+.box8 .icon li a {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+/*profile end*/
+/* testimonial start  */
+.test-img img {
+    margin-top: 60px;
+}
+.test-content {
+    padding-left: 0px;
+}
+.test-content span {
+    margin: 5px 0 !important;
+}
+.test-content h5 {
+    margin-bottom: 0;
+}
+.test-content p {
+    margin-top: 5px;
+}
+/* testimonial end  */
+/* contact start */
+.contact-form-w {
+    padding: 90px 40px 40px;
+    border: 1px solid #cccccc;
+    position: relative;
+}
+/* contact end */
+/*footer start*/
+.footer-text{
+    margin: 30px 0;
+}
+.footer-m{
+    margin: 30px 0;
+}
+.footer-m ul li {
+    margin-left: 10px;
+}
+/*footer end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.a-text h1 {
+    margin-bottom: 0px;
+}
+.a-text p {
+    margin-bottom: 5px;
+}
+.c_h1 {
+    font-size: 29px;
+}
+/* choose us start */
+.c-h2 {
+    margin-left: 13px;
+}
+/* choose us  end */  
+/*profile start*/
+.p-text h2 {
+    font-size: 18px;
+}
+.box8 .icon {
+    top: 40%;
+}
+.box8 .icon li a {
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+}
+/*profile end*/
+/*Pricing start*/
+.p-btn {
+    padding: 5px 11px !important;
+}
+/*Pricing end*/
+}
+
+/*X-Large devices (large desktop, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /*about start*/
+.a-text h1 {
+    margin-bottom: 25px;
+}
+.a-text p {
+    margin-bottom: 25px;
+}
+    /*about end*/
+    /*profile start*/
+.p-text {
+    padding: 9px;
+}
+.p-text h2 {
+    font-size: 17px;
+}
+/*profile end*/   
+}
+
+
+/*XX-Large devices (larger desktop, 1400px and up) */
+@media (min-width: 1400px) {
+	
+}
